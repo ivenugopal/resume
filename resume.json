@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Hansraj Das",
+    "label": "Software Engineer at Google via Globallogic",
+    "picture": "https://avatars2.githubusercontent.com/u/8244993?s=400&u=a7e1c425d3a5036b9bbeb954d134db2bd4c0f102&v=4",
+    "email": "raj.das.136@gmail.com",
+    "phone": "+91-9971811734",
+    "summary": "Seasoned software engineer with extensive experience in software/web development, testing and maintenance of complex products. Most of the work experience revolve around Python, C/C++ and Golang. Good understanding of databases - MySQL, SQLite and LDAP. In depth understanding of algorithms, data structures, time/space complexity and OOPs concepts. Also have hands on experience in front end frameworks/libraries - AngularJS and jQuery. Currently working as a developer for Google as TVC @Google Gurgaon, India.",
+    "location": {
+      "address": "G-318, Mangolpuri",
+      "postalCode": "110083",
+      "city": "New Delhi",
+      "countryCode": "India",
+      "region": "Delhi"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "hansrajdas",
+        "url": "https://www.linkedin.com/in/hansraj-das-38541936/"
+      },
+      {
+        "network": "Github",
+        "username": "hansrajdas",
+        "url": "https://github.com/hansrajdas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "GlobalLogic",
+      "position": "Senior Software Engineer",
+      "website": "https://globallogic.com",
+      "startDate": "2017-03-06",
+      "endDate": "",
+      "summary": "Working on 2 projects at Google, gurgaon",
+      "highlights": [
+        "A web based tool used to maintain each vendors work profile at google. Technology stack used is python, angularJS and coludSQL",
+				"Another project is used to create and target announcements to specific vendors. Technology stack used is golang, jQuery, cloudSQL and google appengine",
+        "Extensively used google app engine and kubernetes for deployment and management of softwares"
+      ]
+    },
+    {
+      "company": "Aricent, Gurgaon",
+      "position": "Technical Leader",
+      "website": "https://www.aricent.com/",
+      "startDate": "2011-10-17",
+      "endDate": "2017-03-03",
+      "summary": "Majorly involved in development of HSS REST interface and LTE EPC",
+      "highlights": [
+				"Developed XML based REST interface to configure LTE HSS using python, C/C++, gSoap and apache web server",
+				"Developed support for distributed HSS in EMS, EMS is a web based tool to configure LTE EPC nodes. Technologies used is python, C/C++, javascript and HTML",
+				"Developed a python based tool to migrate routing configurations stored at ldap server (in ldif files) on new hardware platform",
+				"Developed S6a and STa interface in HSS, in depth knowledge of diameter protocol",
+				"Integrated all LTE EPC core network nodes (MME, SGW, PGW, HSS and PCRF)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bharati Vidyapeeth's College of Engineering",
+      "area": "Electronics and Communication",
+      "studyType": "B.Tech",
+      "startDate": "2007-08-01",
+      "endDate": "2011-06-30",
+      "gpa": "73.4%",
+      "courses": []
+    },
+    {
+      "institution": "Kendriya Vidyalaya, Rohini, Delhi",
+      "area": "",
+      "studyType": "XII",
+      "startDate": "2006-04-01",
+      "endDate": "2007-06-30",
+      "gpa": "86.4%",
+      "courses": []
+    },
+    {
+      "institution": "Kendriya Vidyalaya, Rohini, Delhi",
+      "area": "",
+      "studyType": "X",
+      "startDate": "2004-04-01",
+      "endDate": "2005-06-30",
+      "gpa": "65.8%",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Individual Excellence Award",
+      "date": "",
+      "awarder": "Globallogic",
+      "summary": "Got individual excellence award for quarter Jan-Mar 2018"
+    },
+    {
+      "title": "Aricent Training Project",
+      "date": "",
+      "awarder": "Aricent",
+      "summary": "Won second prize for training project (network firewall) at aricent, Jan 2012"
+    },
+    {
+      "title": "Chess Competition",
+      "date": "",
+      "awarder": "Bharati Vidyapeeth's College of Engineering",
+      "summary": "2nd Place in Chess Competition | Annual Sports Meet 2009-2010"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "C/C++",
+				"Shell Scripting"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "Golang",
+				"Javascript",
+				"CSS",
+				"HTML"
+      ]
+    },
+    {
+      "name": "Framework",
+      "level": "Intermediate",
+      "keywords": [
+        "AngularJS",
+        "jQuery",
+        "SQLAlchemy",
+        "Webapp2"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "LDAP"
+      ]
+    },
+    {
+      "name": "Software Tools",
+      "level": "Master",
+      "keywords": [
+        "Vim",
+				"Wireshark",
+        "Gdb",
+        "Valgrind",
+        "Callgrind",
+        "Purify",
+        "Bullseye",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Server",
+      "level": "Master",
+      "keywords": [
+        "Apache",
+        "Socket programming"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Master",
+      "keywords": [
+        "GIT",
+				"CVS",
+				"SVN"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "level": "Master",
+      "keywords": [
+        "Ubuntu",
+        "Unix",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Cloud Platform Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "Google Appengine(GAE)",
+        "Google Cloud SQL",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker (mother tongue)"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+		{
+			"name": "LinkedIn Recommendation - Yashveer Arya, Engineering Project Manager at Aricent",
+			"reference": "Hansraj has very good technical skills. He worked with me in a complex HSS feature development. He has shown great character and problem solving skills during that assignment. He is someone you can trust and rely on.  He is very soft spoken and a good listener.  I will definitely recommend him for his attitude and technical competence. And would look for a chance to work again with him. All the very best. Cheers!!"
+		},
+		{
+			"name": "LinkedIn Recommendation - Rahul Tiwari, Engineering Project Manager at Aricent",
+			"reference": "I have worked with Hansraj, he is an excellent team player and highly productive in his all assignments. He works proactively and his presence gives confidence to the team members. He has collaborated with other teams (HSS and IMSLite) for fixing their module issues by providing necessary logs and detailed analysis of issues, showing his flexibility to take on new challenges.  His “never say no attitude” differentiates him from others and that’s the reason he commands a great rapport in his team. Keep it up Hansraj :)"
+		}
+	]
+}
