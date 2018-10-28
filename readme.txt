@@ -8,6 +8,7 @@ How to generate resume:
 3. Update resume.json
 4. run:
     resume serve --theme stackoverflow
+    resume serve --theme onepage-efficient
     Other themes can also be specified like 'paper', 'flat', ...
 5. Open in browser and save the resume in pdf format using print.
 6. To install new theme (otherwise it will directly download from server when required):
