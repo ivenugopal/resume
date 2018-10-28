@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Hansraj Das",
+    "label": "Senior Software Engineer at Globallogic",
+    "picture": "https://avatars2.githubusercontent.com/u/8244993?s=400&u=a7e1c425d3a5036b9bbeb954d134db2bd4c0f102&v=4",
+    "email": "rajdas223@gmail.com",
+    "phone": "09971811734",
+    "summary": "Seasoned software engineer with extensive experience in software/web development, testing and maintenance of complex products. Most of the work experience revolve around Python, C/C++ and Golang. Good understanding of databases - MySQL, SQLite and LDAP. In depth understanding of algorithms, data structures, time/space complexity and OOPs concepts. Posses good knowledge of designing/architecting, testing and deployment of softwares on various platforms. Also have hands on experience in front end frameworks/libraries - AngularJS, jQuery and python modules like numpy and pandas. Currently working as a developer for Google as TVC @Google Gurgaon, India.",
+    "location": {
+      "address": "G-318, Mangolpuri",
+      "postalCode": "110083",
+      "city": "New Delhi",
+      "countryCode": "India",
+      "region": "Delhi"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "hansrajdas",
+        "url": "https://github.com/hansrajdas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "GlobalLogic",
+      "position": "Senior Software Engineer",
+      "website": "https://globallogic.com",
+      "startDate": "2017-03-06",
+      "endDate": "",
+      "summary": "Working on 2 google internal tools",
+      "highlights": [
+        "Improved tools performance, latency from 20 secs to 5 secs",
+				"Implemented bulk edit functionality to update agent profiles in batches - Based in Golang, Jquery, and CloudSQL",
+        "Developed python and agularJS based tool to manage agent assignments",
+        "Also working on various pipelines, dashboards, deployment platforms like google app engine, borg/kubernetes"
+      ]
+    },
+    {
+      "company": "Aricent, Gurgaon",
+      "position": "Technical Leader",
+      "website": "https://www.aricent.com/",
+      "startDate": "2011-10-17",
+      "endDate": "2017-03-03",
+      "summary": "Majorly involved in development of HSS REST interface and LTE EPC",
+      "highlights": [
+				"Developed XML based REST interface to configure LTE HSS using python, C/C++, gSoap and apache web server",
+				"Developed support for distributed HSS in EMS, EMS is a web based tool to configure LTE EPC nodes. Technologies used is python, C/C++, javascript and HTML",
+				"Developed a python based tool to migrate routing configurations stored at ldap server (in ldif files) on new hardware platform",
+				"Developed S6a and STa interface in HSS, in depth knowledge of diameter protocol",
+				"Integrated all LTE EPC core network nodes (MME, SGW, PGW, HSS and PCRF)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bharati Vidyapeeth's College of Engineering",
+      "area": "Electronics and Communication",
+      "studyType": "B.Tech",
+      "startDate": "2007-08-01",
+      "endDate": "2011-06-30",
+      "gpa": "73.4%",
+      "courses": []
+    },
+    {
+      "institution": "Kendriya Vidyalaya, Rohini, Delhi",
+      "area": "Science",
+      "studyType": "XII",
+      "startDate": "2006-04-01",
+      "endDate": "2007-06-30",
+      "gpa": "86.4%",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Individual Excellence Award",
+      "date": "",
+      "awarder": "Globallogic",
+      "summary": "Got individual excellence award for quarter Jan-Mar 2018"
+    },
+    {
+      "title": "Aricent Training Project",
+      "date": "",
+      "awarder": "Aricent",
+      "summary": "Won second prize for training project (network firewall) at aricent, Jan 2012"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "C/C++",
+				"Shell Scripting"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "Golang",
+				"Javascript",
+				"CSS",
+				"HTML"
+      ]
+    },
+    {
+      "name": "Framework",
+      "level": "Intermediate",
+      "keywords": [
+        "AngularJS",
+        "jQuery",
+        "Numpy",
+        "Pandas",
+        "SQLAlchemy",
+        "Webapp2"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "LDAP"
+      ]
+    },
+    {
+      "name": "Software Tools",
+      "level": "Master",
+      "keywords": [
+        "Vim",
+				"Wireshark",
+        "Gdb",
+        "Valgrind",
+        "Callgrind",
+        "Purify",
+        "Bullseye",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Server",
+      "level": "Master",
+      "keywords": [
+        "Apache",
+        "Socket programming"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Master",
+      "keywords": [
+        "GIT",
+				"CVS",
+				"SVN"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "level": "Master",
+      "keywords": [
+        "Ubuntu",
+        "Unix",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Cloud Platform Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "Google Appengine(GAE)",
+        "Google Cloud SQL",
+        "Borg/Kubernetes"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker (mother tongue)"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+		{
+			"name": "LinkedIn Recommendation - Yashveer Arya, Engineering Project Manager at Aricent",
+			"reference": "Hansraj has very good technical skills. He worked with me in a complex HSS feature development. He has shown great character and problem solving skills during that assignment. He is someone you can trust and rely on.  He is very soft spoken and a good listener.  I will definitely recommend him for his attitude and technical competence. And would look for a chance to work again with him. All the very best. Cheers!!"
+		},
+		{
+			"name": "LinkedIn Recommendation - Rahul Tiwari, Engineering Project Manager at Aricent",
+			"reference": "I have worked with Hansraj, he is an excellent team player and highly productive in his all assignments. He works proactively and his presence gives confidence to the team members. He has collaborated with other teams (HSS and IMSLite) for fixing their module issues by providing necessary logs and detailed analysis of issues, showing his flexibility to take on new challenges.  His “never say no attitude” differentiates him from others and that’s the reason he commands a great rapport in his team. Keep it up Hansraj :)"
+		}
+	]
+}
