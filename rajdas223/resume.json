@@ -15,6 +15,11 @@
     },
     "profiles": [
       {
+        "network": "Linkedin",
+        "username": "hansrajdas",
+        "url": "https://www.linkedin.com/in/hansraj-das-38541936/"
+      },
+      {
         "network": "Github",
         "username": "hansrajdas",
         "url": "https://github.com/hansrajdas"
